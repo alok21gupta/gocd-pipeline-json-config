@@ -2,7 +2,7 @@
   "format_version" : 1,
   "name": "firstpipeline",
   "environment_variables": [],
-  "group" : "gocd-example",
+  "group" : "gocd-example1",
   "materials": [
     {
       "url": "https://github.com/githubtraining/hellogitworld",
